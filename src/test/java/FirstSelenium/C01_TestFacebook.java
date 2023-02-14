@@ -3,8 +3,9 @@ package FirstSelenium;
 public class C01_TestFacebook {
 
     public static void main(String[] args) {
-        System.out.println("hellooo");
-
+ 
+        System.out.println(" first line code ");
+    }
          /*
     Saturday Project (Selenium 1st Project)
 Goal of the project: As an Automation tester, you are going to visit Facebook page, manually test the sign-up functionality. Then automate your test cases and run your automation.
@@ -14,6 +15,4 @@ Summary of the Task :
 // Navigate https://www.facebook.com/ // Click on Create New Account button // Fill the form
 // Get text for Sign Up button
      */
-    }
-
 }
